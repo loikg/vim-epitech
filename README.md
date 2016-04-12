@@ -1,3 +1,5 @@
+Fork of https://github.com/LeBarbu/vim-epitech with a simple fix on locales errors
+
 vim-epitech
 ===========
 
